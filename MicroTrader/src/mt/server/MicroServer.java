@@ -23,7 +23,6 @@ import mt.filter.AnalyticsFilter;
 /**
  * MicroTraderServer implementation. This class should be responsible
  * to do the business logic of stock transactions between buyers and sellers.
- * teste
  * 
  * @author Group 78
  *
